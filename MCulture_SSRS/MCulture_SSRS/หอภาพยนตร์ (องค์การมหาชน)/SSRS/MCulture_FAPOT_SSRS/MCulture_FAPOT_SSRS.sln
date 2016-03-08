@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "MCulture_FAPOT_SSRS", "MCulture_FAPOT_SSRS\MCulture_FAPOT_SSRS.rptproj", "{F4888CF5-7DA4-408B-865B-4DBB9E85220D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.Debug|Default.ActiveCfg = Debug
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.Debug|Default.Build.0 = DebugLocal
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.Debug|Default.Deploy.0 = DebugLocal
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.DebugLocal|Default.Build.0 = DebugLocal
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.Release|Default.ActiveCfg = Release
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.Release|Default.Build.0 = Release
+		{F4888CF5-7DA4-408B-865B-4DBB9E85220D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

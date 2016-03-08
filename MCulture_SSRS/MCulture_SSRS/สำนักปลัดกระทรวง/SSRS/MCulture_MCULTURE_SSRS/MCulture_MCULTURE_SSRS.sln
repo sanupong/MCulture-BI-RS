@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "กลุ่มพัฒนาระบบบริหาร", "กลุ่มพัฒนาระบบบริหาร\กลุ่มพัฒนาระบบบริหาร.rptproj", "{BFE0BC57-71DC-4388-BADE-24236E533E75}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "สำนักงานเฝ้าระวังทางวัฒนธรรม", "สำนักงานเฝ้าระวังทางวัฒนธรรม\สำนักงานเฝ้าระวังทางวัฒนธรรม.rptproj", "{9A7F236C-AB25-4966-90F3-4C47C437DAD6}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "สำนักตรวจและประเมินผล", "สำนักตรวจและประเมินผล\สำนักตรวจและประเมินผล.rptproj", "{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "สำนักนโยบายและแผนยุทธศาสตร์", "สำนักนโยบายและแผนยุทธศาสตร์\สำนักนโยบายและแผนยุทธศาสตร์.rptproj", "{17F1C132-4608-40F0-A411-AB1BB112A422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.Debug|Default.ActiveCfg = Debug
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.Debug|Default.Build.0 = Debug
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.Debug|Default.Deploy.0 = Debug
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.DebugLocal|Default.Build.0 = DebugLocal
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.Release|Default.ActiveCfg = Release
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.Release|Default.Build.0 = Release
+		{BFE0BC57-71DC-4388-BADE-24236E533E75}.Release|Default.Deploy.0 = Release
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.Debug|Default.ActiveCfg = Debug
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.Debug|Default.Build.0 = Debug
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.Debug|Default.Deploy.0 = Debug
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.DebugLocal|Default.Build.0 = DebugLocal
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.Release|Default.ActiveCfg = Release
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.Release|Default.Build.0 = Release
+		{9A7F236C-AB25-4966-90F3-4C47C437DAD6}.Release|Default.Deploy.0 = Release
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.Debug|Default.ActiveCfg = Debug
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.Debug|Default.Build.0 = Debug
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.Debug|Default.Deploy.0 = Debug
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.DebugLocal|Default.Build.0 = DebugLocal
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.Release|Default.ActiveCfg = Release
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.Release|Default.Build.0 = Release
+		{C7D51FB0-3D8E-45F1-906C-3993B142E5AD}.Release|Default.Deploy.0 = Release
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.Debug|Default.ActiveCfg = Debug
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.Debug|Default.Build.0 = Debug
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.Debug|Default.Deploy.0 = Debug
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.DebugLocal|Default.Build.0 = DebugLocal
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.Release|Default.ActiveCfg = Release
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.Release|Default.Build.0 = Release
+		{17F1C132-4608-40F0-A411-AB1BB112A422}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

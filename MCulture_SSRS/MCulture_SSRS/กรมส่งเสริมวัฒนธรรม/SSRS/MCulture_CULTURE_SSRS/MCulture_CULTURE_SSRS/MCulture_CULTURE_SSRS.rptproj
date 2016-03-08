@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-874"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>MCulture_SSAS_DS.rds</Name>
+      <FullPath>MCulture_SSAS_DS.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets />
+  <Reports>
+    <ProjectItem>
+      <Name>1. ผลงานวิจัยที่ได้รับทุนอุดหนุนจาก สวธOld.rdl</Name>
+      <FullPath>1. ผลงานวิจัยที่ได้รับทุนอุดหนุนจาก สวธOld.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>2. แหล่งภูมิปัญญาทางวัฒนธรรมที่จับต้องไม่ได้.rdl</Name>
+      <FullPath>2. แหล่งภูมิปัญญาทางวัฒนธรรมที่จับต้องไม่ได้.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>3. ศิลปินแห่งชาติ ผู้มีผลงานดีเด่นทางวัฒนธรรม ผู้ทรงคุณวุฒิทางวัฒนธรรม.rdl</Name>
+      <FullPath>3. ศิลปินแห่งชาติ ผู้มีผลงานดีเด่นทางวัฒนธรรม ผู้ทรงคุณวุฒิทางวัฒนธรรม.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>4. แหล่งเรียนรู้ทางวัฒนธรรม.rdl</Name>
+      <FullPath>4. แหล่งเรียนรู้ทางวัฒนธรรม.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>5. เครือข่ายทางวัฒนธรรม.rdl</Name>
+      <FullPath>5. เครือข่ายทางวัฒนธรรม.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>6. ยกย่องชูเกียรติเครือข่ายทางวัฒนธรรม.rdl</Name>
+      <FullPath>6. ยกย่องชูเกียรติเครือข่ายทางวัฒนธรรม.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>7. สถานประกอบกิจการตาม พรบ. ภาพยนตร์และวิดีทัศน์.rdl</Name>
+      <FullPath>7. สถานประกอบกิจการตาม พรบ. ภาพยนตร์และวิดีทัศน์.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>8. การตรวจพิจารณาอนุญาตภาพยนตร์และวิดีทัศน์.rdl</Name>
+      <FullPath>8. การตรวจพิจารณาอนุญาตภาพยนตร์และวิดีทัศน์.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>9. พนักงาน เจ้าหน้าที่ ตาม พรบ. ภาพยนตร์และวิดีทัศน์(เฉพาะ กทม.).rdl</Name>
+      <FullPath>9. พนักงาน เจ้าหน้าที่ ตาม พรบ. ภาพยนตร์และวิดีทัศน์(เฉพาะ กทม.).rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_Artist.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_Artist.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_CulturalResource.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_CulturalResource.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_Establishment.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_Establishment.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_FilmVideoVerify.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_FilmVideoVerify.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_ICHIntangibelCulturalHeritage.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_ICHIntangibelCulturalHeritage.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_Network.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_Network.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>กรมส่งเสริม_DrillDown_ResearchAndKM.rdl</Name>
+      <FullPath>กรมส่งเสริม_DrillDown_ResearchAndKM.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>1. ผลงานวิจัยที่ได้รับทุนอุดหนุนจาก สวธ.rdl</Name>
+      <FullPath>1. ผลงานวิจัยที่ได้รับทุนอุดหนุนจาก สวธ.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://192.168.1.233/sites/culture</TargetServerURL>
+        <TargetFolder>http://192.168.1.233/sites/culture/Reports/CustomerData</TargetFolder>
+        <TargetDataSourceFolder>http://192.168.1.233/sites/culture/Reports/CustomerData/DataSources</TargetDataSourceFolder>
+        <TargetDatasetFolder>http://192.168.1.233/sites/culture/Reports/CustomerData/Datasets</TargetDatasetFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>MCulture_CULTURE_SSRS</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>MCulture_CULTURE_SSRS</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>

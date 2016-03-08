@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "MCulture_CULTURE_SSRS", "MCulture_CULTURE_SSRS\MCulture_CULTURE_SSRS.rptproj", "{1EFED0BE-643F-478A-8916-4ED37DED81EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.Debug|Default.ActiveCfg = Debug
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.Debug|Default.Build.0 = DebugLocal
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.Debug|Default.Deploy.0 = DebugLocal
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.DebugLocal|Default.Build.0 = DebugLocal
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.Release|Default.ActiveCfg = Release
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.Release|Default.Build.0 = Release
+		{1EFED0BE-643F-478A-8916-4ED37DED81EC}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
